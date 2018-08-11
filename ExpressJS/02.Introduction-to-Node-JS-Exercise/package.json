@@ -1,0 +1,11 @@
+{
+  "name": "node-introduction",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "storage"
+  ],
+  "author": "GG",
+  "license": "ISC"
+}
